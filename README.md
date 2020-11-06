@@ -1,2 +1,2 @@
 # DS
-ds algo practice
+ds algo practice code
